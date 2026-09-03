@@ -12,7 +12,7 @@ html {
 
 body {
   margin: 0;
-  background: #fff url("../images/furley_bg-150x150.png") repeat-y top left fixed;
+  background: #fff;
   color: var(--ink);
   font: normal 14px/150% Arial, Helvetica, sans-serif;
   overflow-wrap: break-word;
