@@ -1,0 +1,10 @@
+/*
+  Content-Security-Policy: default-src 'self'; base-uri 'self'; form-action 'self'; frame-ancestors 'self'; frame-src https://www.youtube.com https://open.spotify.com; img-src 'self' data: https://live.staticflickr.com; media-src 'self' https://www.ctahr.hawaii.edu; object-src 'none'; script-src 'none'; style-src 'self' 'unsafe-inline'; upgrade-insecure-requests
+  Permissions-Policy: camera=(), geolocation=(), microphone=()
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: SAMEORIGIN
+
+/assets/documents/*.pdf
+  Content-Disposition: inline
+  X-Content-Type-Options: nosniff
